@@ -12,7 +12,7 @@ I'm Ahmed Wagih, Experienced Senior PHP Developer with a strong focus on Laravel
 **Contact:**
 
 * **Email:** a.ahmedwageh@gmail.com
-* * **Phone:** +201027887897
+* **Phone:** +201027887897
 * **Social Media:** Find me on all platforms as `thewagih`
 
 **Let's Connect!**
